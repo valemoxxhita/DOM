@@ -1,0 +1,19 @@
+.enlace
+{
+    background-color: plum;
+    text-decoration: none;
+    color: black;
+}
+
+.fondo
+{
+    background-color: red;
+
+}
+
+.letra
+{
+    font-size:50px;
+    color: blue;
+    font-style: italic;
+}
