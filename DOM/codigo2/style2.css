@@ -1,0 +1,24 @@
+body
+{
+    font-family: "DM Sans", sans-serif;
+}
+
+.color
+{
+   color: chartreuse;
+}
+
+.letra
+{
+   font-style: italic;  
+}
+
+.cumplido
+{
+    background-color: rgb(173, 240, 173);
+}
+
+.fallido
+{
+    background-color: rgb(233, 102, 102);
+}
